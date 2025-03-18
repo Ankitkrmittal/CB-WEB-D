@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}                                               
+.para{
+    line-height: 2;
+    border: 5px;
+    margin: 20px 10px;
+    padding: 20px 10px;
+    font-family: sans-serif;
+}
+.heading {
+    font-size: 100px;
+}
