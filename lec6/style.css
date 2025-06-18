@@ -1,0 +1,15 @@
+#parent {
+    height: 600px;
+    width: 600px;
+    border: 2px solid black;
+     display: flex;
+    /* flex-direction: inherit; */
+    /* flex-direction: column-reverse; */
+    
+    flex-wrap: wrap;
+}
+#parent>div {
+    height: 200px;
+    width: 200px;
+    border: 1px solid red;
+}

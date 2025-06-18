@@ -1,0 +1,48 @@
+#header {
+    height: 10vh;
+    width: 100vw;
+    display: flex;
+    position: fixed;
+    align-items: center;
+    justify-content: space-between;
+   
+
+}
+
+#logo img{
+    height: 70%;
+    width: 70%;
+    display: flex;
+    margin: 20px;
+}
+#search{
+    height: 30%;
+    width: 30%;
+    display: flex;
+
+}
+.text {
+    display: flex;
+    margin: 20px;
+    font-weight: 600;
+}
+#contact {
+    height: 40%;
+    width: 40%;
+    display: flex;
+    margin-left: 300px;
+   
+    
+}
+#globe {
+    height: 30%;
+    width: 20%;
+    display: flex;
+    margin: 7px;
+}
+#login{
+    height: 30%;
+    width: 20%;
+    display: flex;
+    margin: 7px;
+}

@@ -1,0 +1,210 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#header{
+    height: 10vh;
+    width: 100vw;
+    display: flex;
+}
+#medium{
+    padding: 10px;
+    font-weight: 800;
+    font-size: large;
+    
+}
+#search{
+    padding: 10px;
+    height: 50%;
+    width: 10%;
+    display: flex;
+}
+#input {
+   
+    padding-top: 10px;
+}
+#write{
+    padding-left: 65%;
+    display: flex;
+    height: 50%;
+    width: 10%;
+    
+}
+#writing{
+    height: 50%;
+    width: 50%;
+    padding: 10px;
+    
+}
+#notification{
+    display: flex;
+    height: 50%;
+    width: 10%;
+    padding-right: 40px;
+}
+#body{
+    margin-left: 15%;
+    margin-right: 40%;
+    display: flex;
+
+}
+#meimg{
+    display: flex;
+    height: 40px;
+    width: 20px;
+}
+#bodyhead{
+    font-weight: 500;
+    padding-left: 25px;
+   
+}
+#details{
+    display: flex;
+}
+#date{
+    margin-right: 10px;
+}
+#stories{
+    margin-right: 10px;
+}
+#staffpicks{
+    margin-top: 40px;
+    font-size: 30px;
+    font-weight: 1000;
+    
+}
+#phase2{
+    margin-left: 15%;
+    margin-right: 30%;
+    display: flex;
+}
+#content{
+    margin-left: 15%;
+    margin-right: 30%;
+    display: flex;
+    font-size: 22px;
+}
+#comment{
+    margin-left: 15%;
+    margin-right: 30%;
+    display: flex;
+}
+#applause{
+    height: 30px;
+    width: 30px;
+    display: flex;
+}
+#likes{
+    padding: 10px;
+}
+#message{
+    display: flex;
+    height: 30px;
+    width: 30px;
+}
+#count{
+    padding: 10px;
+}
+#savelist{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    margin-left: 400px;
+}
+#sharelist{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    padding-left: 30px;
+}
+#more{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    padding-left: 30px;
+}
+#rightpart{
+    padding-left: 700px;
+    display: flex;
+    height: 50px;
+    width: 50px;
+}
+#about{
+    padding-left: 15%;
+    padding-right: 50%;
+    padding-top: 30px;
+    display: flex;
+    height: 30px;
+    /* width: 30px;  */
+}
+#jonathan{
+    padding-left: 15%;
+    
+    display: flex;
+    
+}
+#image{
+    
+    padding-top: 40px;
+    height: 30px;
+    width: 30px;
+    display: flex;
+}
+#name{
+    padding-top: 50px;
+    padding-left: 10px;
+    display: flex;
+
+}
+#guide{
+    padding-left: 15%;
+    font-size: 25px;
+    font-weight: 700;
+    display: flex;
+}
+#guide2{
+    padding-left: 15%;
+    display: flex;
+}
+#photo{
+    padding-left: 10px;
+
+    display: flex;
+    height: 100px;
+    width: 100px;
+}
+#last{
+    padding-left: 15%;
+    display: flex;
+}
+#tarik{
+    display: flex;
+
+}
+#wave{
+    display: flex;
+    height: 20px;
+    width: 20px;
+    padding-left: 10px;
+}
+#sandesh{
+    padding-left: 20px;
+    display: flex;
+    height: 20px;
+    width: 20px;
+}
+#fiftyone{
+  padding-left: 4px;
+}
+#surakshit{
+    padding-left: 250px;
+    display: flex;
+    height: 20px;
+    width: 20px;
+}
+#aur{
+    display: flex;
+    height: 20px;
+    width: 20px;
+    padding-left: 10px;
+}

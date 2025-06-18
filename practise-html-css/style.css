@@ -1,0 +1,9 @@
+.photo{
+    height: 200px;
+    width: 200px;
+}
+.bio:hover{
+    font-size: 12px;
+    background-color: blue;
+    transition-duration: 10sec;
+}
