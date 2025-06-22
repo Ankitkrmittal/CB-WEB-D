@@ -15,3 +15,4 @@ app.get("/:username",(req,res)=>{
     console.log(req.params);
     res.send("hello i am root");
 })
+
